@@ -2,6 +2,10 @@
 
 I'm a cybersecurity student who loves programming <3
 
+Checkout:
+- plasny.github.io
+- cv.plasny.one
+
 <!--
 **Plasny/Plasny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
