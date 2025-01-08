@@ -6,6 +6,10 @@ Checkout:
 - https://plasny.github.io
 - https://cv.plasny.one
 
+Papers-with-code:
+- https://github.com/Plasny/security-analyst-dashboard
+- https://cs.paperswithcode.com/paper/looking-for-a-black-cat-in-a-dark-room
+
 <!--
 **Plasny/Plasny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
